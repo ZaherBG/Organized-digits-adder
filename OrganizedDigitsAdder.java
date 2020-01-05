@@ -1,7 +1,6 @@
-package mar6;
 import java.util.Arrays;
 import java.util.Scanner;
-public class Mar6 {
+public class OrganizedDigitsAdder {
     public static void main(String[] args) {
         String m; 
         Scanner s = new Scanner(System.in);
